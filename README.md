@@ -1,9 +1,9 @@
 # CRUD-App
 
-###Basic api details 
+### Basic api details 
 
-#Test library - chai and chai-http 
+## Test library - chai and chai-http 
 
-#Run npm install after pull request 
+## Run npm install after pull request 
 
-##To run test cases - use `npm run test`
+## To run test cases - use `npm run test`
